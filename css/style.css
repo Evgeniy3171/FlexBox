@@ -1,0 +1,12 @@
+.block {
+ border: 1px solid #123;
+ display: flex;
+ height: 150px;
+ width: 90%;
+ margin: auto;
+ /* justify-content: ;
+ align-items: ; */
+} 
+.element {
+ background-color: rgb(136, 124, 124);
+}
